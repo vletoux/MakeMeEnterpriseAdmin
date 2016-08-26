@@ -1,4 +1,5 @@
 Example of successful execution:
+```
 ======================================================================
   /\     Elevated domain admins to Enterprise admins     - version 1.0
   ||
@@ -34,3 +35,4 @@ Ticket imported
 ======================================================================
 You got promoted Enterprise admin (when connecting to other computers)
 Have a nice day
+...
