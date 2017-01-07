@@ -36,3 +36,5 @@ Ticket imported
 You got promoted Enterprise admin (when connecting to other computers)
 Have a nice day
 ...
+
+For solutions, do not forget to check [PingCastle] (https://www.pingcastle.com)
